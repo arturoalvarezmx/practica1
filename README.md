@@ -8,7 +8,7 @@ public class Declaraciones_Operaciones {
    
   int suma=a+b;
   int resta=a-b;
-  int multiplicacion=a*b;
+  int multiplicaciona*b;
   int division=a/b;  
    
   System.out.println("La suma de " + a + " más "  + b + " es igual a "  + suma);
